@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "scripts":{"start": "node app.js" },
   "dependencies": {
     "botbuilder": "^3.5.1",
     "mongodb": "^2.2.19",
@@ -12,7 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    // "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC"
